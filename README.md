@@ -175,6 +175,12 @@ Additional investor and first-home buyer cleaned datasets will be added as their
 - Add further KPIs and interactive Power BI filters.
 - Develop additional business insights from the combined datasets.
 
+### Power BI Dashboard Preview
+
+<img width="1920" height="1039" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d5e466c4-c156-43d5-8160-efb9635f71a2" />
+
+
+
 ## 14. Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow, from identifying a real-world question and sourcing public data to cleaning datasets, calculating KPIs, exploring trends and presenting insights through visualisations and business intelligence reporting.
